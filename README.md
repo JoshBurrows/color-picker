@@ -1,3 +1,4 @@
 # color-picker
 - Simple color picker
-- first javascript project
+- First javascript project
+- Working version here: https://joshburrows.github.io/color-picker/
