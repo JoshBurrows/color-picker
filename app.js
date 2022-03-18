@@ -19,6 +19,7 @@ function setColors() {
   hexColor = rgbToHex(r, g, b);
   document.body.style.backgroundColor = hexColor;
   header.innerText = `This rgb color is: ${rgbValue}
+   ------------------
    This hex color is: ${hexColor}`;
 }
 
